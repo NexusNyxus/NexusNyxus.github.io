@@ -1,0 +1,25 @@
+.title{
+    color: white;
+}
+
+
+body {
+   background-color:#1f578c ; 
+}
+
+.downloadBtn{
+    background-color: #1f578c;
+    border: 3px solid white;
+    color: white;
+    transition: 0.3s;
+}
+.downloadBtn:hover{
+    background-color: white;
+    border: 3px solid white;
+    color: black;
+}
+.downloadBtn:active{
+    background-color: #1f578c;
+    border: 3px solid #1f578c;
+    color: #1f578c;
+}
