@@ -1,0 +1,33 @@
+body{
+    background-color: #aacaff;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #154dff;
+    padding: 15px;
+    box-shadow: 0 3px #000;
+    
+}
+header li{
+    display: inline;
+    padding-left: 45px;
+    
+}
+header li a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 13px;
+    transition: 1.5s;
+}
+header li a:hover{
+    background-color: #8098ff;
+}
+header li img{
+    width: 150px;
+    float: left;
+    margin-top: -30px;
+}
